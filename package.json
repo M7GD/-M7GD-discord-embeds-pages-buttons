@@ -1,0 +1,57 @@
+{
+  "_from": "discord-embeds-pages-buttons",
+  "_id": "discord-embeds-pages-buttons@1.1.8",
+  "_inBundle": false,
+  "_integrity": "sha512-e+WJFk6fZkFF8ZdSbA+9aoG8i2GhLZ9P+7l/T2uEZLgD694OkRQY4Fgx1HpV9njLoxDokIdgSRyPHYBGZmjq2w==",
+  "_location": "/discord-embeds-pages-buttons",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "discord-embeds-pages-buttons",
+    "name": "discord-embeds-pages-buttons",
+    "escapedName": "discord-embeds-pages-buttons",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/discord-embeds-pages-buttons/-/discord-embeds-pages-buttons-1.1.8.tgz",
+  "_shasum": "266270d0f989b1896458194327ab53e413a690db",
+  "_spec": "discord-embeds-pages-buttons",
+  "_where": "C:\\Users\\theha\\Desktop\\MaxiPad Discord Bot",
+  "author": {
+    "name": "professorfish"
+  },
+  "bugs": {
+    "url": "https://github.com/ProfessorFish/discord-embeds-pages-buttons/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "discord-buttons": "^3.2.1",
+    "discord.js": "^12.5.3"
+  },
+  "deprecated": false,
+  "description": "Embed pages with buttons for swapping pages",
+  "homepage": "https://github.com/ProfessorFish/discord-embeds-pages-buttons#readme",
+  "keywords": [
+    "discord-embeds-pages-buttons",
+    "discord-embeds",
+    "discord-pages",
+    "discord-buttons"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "discord-embeds-pages-buttons",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProfessorFish/discord-embeds-pages-buttons.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.8"
+}
