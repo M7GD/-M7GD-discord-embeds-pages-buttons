@@ -50,7 +50,7 @@ exports.pages = async function(client, message, pages, timeout, disbut, style, f
         }
         if(b.id == "back_button_embed" || b.id == "forward_button_embed"){
             m.edit({embed: pages[currentPage], components: [pageMovingButtons]});
-            b.defer(true);
+            b.reply.defer(true);
         }
     }
     })

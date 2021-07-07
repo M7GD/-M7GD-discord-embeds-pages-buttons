@@ -1,16 +1,16 @@
 {
-  "_from": "discord-embeds-pages-buttons",
-  "_id": "discord-embeds-pages-buttons@1.1.8",
+  "_from": "discord12.5.3-embed-pages-buttons",
+  "_id": "discord12.5.3-embed-pages-buttons@1.0.0",
   "_inBundle": false,
   "_integrity": "sha512-e+WJFk6fZkFF8ZdSbA+9aoG8i2GhLZ9P+7l/T2uEZLgD694OkRQY4Fgx1HpV9njLoxDokIdgSRyPHYBGZmjq2w==",
-  "_location": "/discord-embeds-pages-buttons",
+  "_location": "/discord12.5.3-embed-pages-buttons",
   "_phantomChildren": {},
   "_requested": {
     "type": "tag",
     "registry": true,
-    "raw": "discord-embeds-pages-buttons",
-    "name": "discord-embeds-pages-buttons",
-    "escapedName": "discord-embeds-pages-buttons",
+    "raw": "discord12.5.3-embed-pages-buttons",
+    "name": "discord12.5.3-embed-pages-buttons",
+    "escapedName": "discord12.5.3-embed-pages-buttons",
     "rawSpec": "",
     "saveSpec": null,
     "fetchSpec": "latest"
@@ -19,15 +19,15 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/discord-embeds-pages-buttons/-/discord-embeds-pages-buttons-1.1.8.tgz",
+  "_resolved": "https://registry.npmjs.org/discord12.5.3-embed-pages-buttons/-/discord12.5.3-embed-pages-buttons-1.0.0.tgz",
   "_shasum": "266270d0f989b1896458194327ab53e413a690db",
-  "_spec": "discord-embeds-pages-buttons",
+  "_spec": "discord12.5.3-embed-pages-buttons",
   "_where": "C:\\Users\\theha\\Desktop\\MaxiPad Discord Bot",
   "author": {
-    "name": "professorfish"
+    "name": "m7gd"
   },
   "bugs": {
-    "url": "https://github.com/ProfessorFish/discord-embeds-pages-buttons/issues"
+    "url": "https://github.com/M7GD/-M7GD-discord-embeds-pages-buttonsissues"
   },
   "bundleDependencies": false,
   "dependencies": {
@@ -36,22 +36,22 @@
   },
   "deprecated": false,
   "description": "Embed pages with buttons for swapping pages",
-  "homepage": "https://github.com/ProfessorFish/discord-embeds-pages-buttons#readme",
+  "homepage": "https://github.com/M7GD/-M7GD-discord-embeds-pages-buttons#readme",
   "keywords": [
-    "discord-embeds-pages-buttons",
+    "discord12.5.3-embed-pages-buttons",
     "discord-embeds",
     "discord-pages",
     "discord-buttons"
   ],
   "license": "ISC",
   "main": "index.js",
-  "name": "discord-embeds-pages-buttons",
+  "name": "discord12.5.3-embed-pages-buttons",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ProfessorFish/discord-embeds-pages-buttons.git"
+    "url": "git+https://github.com/M7GD/-M7GD-discord-embeds-pages-buttons.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.1.8"
+  "version": "1.0.0"
 }
